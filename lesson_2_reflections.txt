@@ -2,4 +2,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
 	It now becomes a git respository i.e. git would start keeping a meta deta for it
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Staging area allows to add only those files from a repository that we want to commit
+
 	
