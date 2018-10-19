@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	It now becomes a git respository i.e. git would start keeping a meta deta for it
+
+	
