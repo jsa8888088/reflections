@@ -22,5 +22,10 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	Work done by different people / at different times / on different things can be merged together.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	
+	Pros of git doing commits : save time on resolving conflict
+	cons : you won;t be able to select what to keep and what not
+
 	
 
