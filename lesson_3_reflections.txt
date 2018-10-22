@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When wanting to experiment without affecting master till a feature is tested. Also, to have go ahead form a participant on a change before merging changes into master
